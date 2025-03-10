@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ajustes para el modo oscuro */
+nav {
+  background-color: rgb(229, 231, 235); /* Color gris claro */
+}
+body {
+  background-color: #111827; /* Color oscuro por defecto */
+}
